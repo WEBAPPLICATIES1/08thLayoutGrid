@@ -1,5 +1,4 @@
-# 08thLayoutGrid
-
+# Hoofdstuk 8: Layout Grid
 Voor dit hoofdstuk zijn er geen voorbeelden op GitHub. De voorbeelden staan op *codepen.io*
 
 Hieronder vind je een overzicht van de verschillende CodePens die in de slides van Hoofdstuk 8 gebruikt worden.
